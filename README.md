@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Juan Francisco Burgos, I’m interested in Software Development
+## 👋 Hi, I’m Juan Francisco Burgos, I’m interested in Software Development
 
+
+## Tools 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails&perline=2)](https://skillicons.dev)
 
 
