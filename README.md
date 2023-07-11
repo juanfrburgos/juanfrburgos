@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Juan Francisco Burgos
-- 👀 I’m interested in Software Development
-- ![ruby](https://github.com/juanfrburgos/juanfrburgos/assets/139256977/9665501b-44fc-42e8-abcf-ea75c905be11) I’m currently studyying Ruby and Ruby On Rails
+- 👋 Hi, I’m Juan Francisco Burgos, I’m interested in Software Development
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails&perline=2)](https://skillicons.dev)
+
+
 
 
 <!---
