@@ -2,7 +2,7 @@
 
 
 ## Tools 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,fastapi&perline=3)](https://skillicons.dev)
 
 
 
