@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Juan Francisco Burgos, I’m interested in Software Development
+# 👋 Hi, I’m Juan Francisco Burgos, I’m interested in backend software development with Java and Spring Boot.
 
 
 ## Tools 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,fastapi&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,gradle,idea&perline=5)](https://skillicons.dev)
 
 
 
